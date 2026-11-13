@@ -1,0 +1,4 @@
+boto3[crt]          # [crt] is needed for "aws login" credentials
+moto[s3,ec2]
+pytest
+ruff
