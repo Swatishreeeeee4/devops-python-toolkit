@@ -31,3 +31,7 @@ pytest -q        # 6 passed
 - Built while learning Python for DevOps (Decoding DevOps course, Section 20). The course's `ostasks.py` used
   `os.system("useradd {}".format(user))`, which allows shell injection; use `subprocess.run([...])` with a list instead.
 - `aws login` credentials need `boto3[crt]` and a default region for the token refresh.
+
+## Author
+
+Swatishree Barik · [github.com/Swatishreeeeee4](https://github.com/Swatishreeeeee4)
